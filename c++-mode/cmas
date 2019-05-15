@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: cas
+# key: cas
+# --
+${1}_($1)
