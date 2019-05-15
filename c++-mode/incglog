@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: incglog
+# key: incglog
+# --
+#include "glog/logging.h"
