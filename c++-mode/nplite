@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: nplite
+# key: nplite
+# --
+namespace paddle {
+namespace framework {
+namespace lite {
+$1
+}  // namespace lite
+}  // namespace framework
+}  // namespace paddle

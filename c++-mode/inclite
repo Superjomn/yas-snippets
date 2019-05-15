@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: inclite
+# key: inclite
+# --
+#include "paddle/fluid/framework/lite/$1"
+$2
