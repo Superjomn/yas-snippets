@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: incir
-# key: incir
+# name: inc
+# key: inc
 # --
-#include "paddle/fluid/framework/ir/$1"
+#include <$1> $2
