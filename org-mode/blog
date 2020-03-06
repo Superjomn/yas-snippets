@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: blog
+# key: blog
+# --
+#+title: $1
+#+author:
+#+subtitle: emacs everywhere
+#+date: 2019-12-26
+#+hugo_tags: $2
+#+draft: true
+#+hugo_base_dir: ../
+#+hugo_section: ./posts
+#+toc: headlines 2

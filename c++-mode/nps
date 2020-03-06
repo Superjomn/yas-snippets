@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: np
-# key: np
+# name: nps
+# key: nps
 # --
 namespace $1 {
 $2

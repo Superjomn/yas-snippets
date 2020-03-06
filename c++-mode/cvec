@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: vec
-# key: vec
+# name: cvec
+# key: cvec
 # --
-std::vector<$1> $2
+const std::vector<$1>& 
