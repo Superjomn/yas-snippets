@@ -4,4 +4,4 @@
 # --
 namespace $1 {
 $2
-}  // namespace $1
+}  // $1

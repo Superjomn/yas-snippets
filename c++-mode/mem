@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mem
+# key: mem
+# --
+${1:member}_($1) ${2:,}

@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: litenps
+# key: litenps
+# --
+namespace paddle {
+namespace lite {
+
+$1
+
+}  // namespace lite
+}  // namespace paddle

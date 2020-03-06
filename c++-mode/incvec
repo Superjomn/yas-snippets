@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: incvec
+# key: incvec
+# --
+#include <vector>

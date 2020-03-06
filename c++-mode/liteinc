@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: liteinc
+# key: liteinc
+# --
+#include "paddle/fluid/lite/$1"

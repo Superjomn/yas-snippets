@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: incgtest
+# key: incgtest
+# --
+#include <gtest/gtest.h>
