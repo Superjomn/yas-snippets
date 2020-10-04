@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: drill2
+# key: drill2
+# --
+* Item                                                              :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+** English
+$1
+** Chinese
+$2

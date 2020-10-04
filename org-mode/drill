@@ -2,10 +2,6 @@
 # name: drill
 # key: drill
 # --
-* Item :drill:
-
-$1
-
-** The Answer
-
+* $1   :drill:
+** answer
 $2
